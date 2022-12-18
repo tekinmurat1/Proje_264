@@ -1,0 +1,11 @@
+Grup 42'nin proje ödevi olarak gönderiyorum fakat her şeyi sadece ben -Murat TEKİN- yaptım.
+
+Kasıtlı olarak tek başıma yapmamış bulunmaktayım. Diğer grup üyeleri ile iletişime geçtim fakat 
+kendilerinden projeyi yapıp yapmayacakları konusunda her hangi bir cevap alamadım. Bu yüzden kendim yapmaya çalıştım.
+
+
+Projede 3 tane adder kullandım koggoe_stone adder kodunu direkt internet üzerinden aldım kendim yapmadım.
+Diğer adderları kendim yaptım.
+
+Uart protokolünde transmitter çalışıyor testbench olarakta ekledim fakat receiver bitmedi.
+
